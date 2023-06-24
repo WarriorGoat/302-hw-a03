@@ -1,0 +1,9 @@
+.product-card {
+    width: 50%;
+    margin: auto;
+    background-color: #334;
+    color: white;
+    padding: 15px;
+    box-shadow: 1px 2px 1px black;
+    margin-top: 10px;
+}
